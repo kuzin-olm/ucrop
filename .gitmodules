@@ -1,0 +1,3 @@
+[submodule "main-interface"]
+	path = main-interface
+	url = https://github.com/kuzin-olm/ucrop-interface
